@@ -16,7 +16,7 @@ Example input:
 ```
 Example output: 
 ```
-1
+0
 ```
  
 
