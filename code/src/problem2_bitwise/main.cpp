@@ -7,7 +7,7 @@ int getBitAtIndex(unsigned int number, int idx)
 }
 
 
-int countOnes(unsigned int  number)
+int countOnes(unsigned long long  number)
 {
     int count = 0;
     return count;
