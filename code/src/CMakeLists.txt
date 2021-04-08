@@ -20,3 +20,7 @@ add_executable(problem1
 add_executable(problem2
     problem2_bitwise/main.cpp
     )
+
+add_executable(problem3
+    problem3_algorithms/main.cpp
+    )
